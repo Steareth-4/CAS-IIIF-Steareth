@@ -9,5 +9,9 @@
     "@type" : "iiif:Image",
     "@id" : "https://Steareth-4.github.io/CAS-IIIF-Steareth/manifests/IIIF-Texas.json",
     "label" : null
+  }, {
+    "@type" : "iiif:Image",
+    "@id" : "https://Steareth-4.github.io/CAS-IIIF-Steareth/manifests/info.json",
+    "label" : null
   } ]
 }
