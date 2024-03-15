@@ -13,5 +13,9 @@
     "@type" : "iiif:Image",
     "@id" : "https://Steareth-4.github.io/CAS-IIIF-Steareth/manifests/info.json",
     "label" : null
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Steareth-4.github.io/CAS-IIIF-Steareth/manifests/manifest.json",
+    "label" : "Basel, Staatsarchiv Basel-Stadt, Fragmente II Klosterarchiv St. Alban DD 1, 1580"
   } ]
 }
