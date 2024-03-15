@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 47,
+    "height" : 32
+  }, {
+    "width" : 94,
+    "height" : 63
+  }, {
+    "width" : 188,
+    "height" : 126
+  }, {
+    "width" : 375,
+    "height" : 251
+  }, {
+    "width" : 750,
+    "height" : 502
+  }, {
+    "width" : 1500,
+    "height" : 1003
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1500,
+  "@id" : "https://Steareth-4.github.io/CAS-IIIF-Steareth/images/IIIF_Texas",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1003
+}
