@@ -1,0 +1,13 @@
+{
+  "id" : "https://Steareth-4.github.io/CAS-IIIF-Steareth/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Steareth-4/CAS-IIIF-Steareth project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "iiif:Image",
+    "@id" : "https://Steareth-4.github.io/CAS-IIIF-Steareth/manifests/IIIF-Texas.json",
+    "label" : null
+  } ]
+}
