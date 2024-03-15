@@ -1,0 +1,144 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Steareth-4.github.io/CAS-IIIF-Steareth/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Basel, Staatsarchiv Basel-Stadt, Fragmente II Klosterarchiv St. Alban DD 1, 1580",
+  "metadata" : [ {
+    "label" : "Location",
+    "value" : "Basel"
+  }, {
+    "label" : "Collection Name",
+    "value" : "Staatsarchiv Basel-Stadt"
+  }, {
+    "label" : "Shelfmark",
+    "value" : "Fragmente II Klosterarchiv St. Alban DD 1, 1580"
+  }, {
+    "label" : "Document Type",
+    "value" : "Fragment"
+  }, {
+    "label" : "DOI",
+    "value" : "10.5076/e-codices-stabs-StAlban-DD1-1580"
+  }, {
+    "label" : "Title (English)",
+    "value" : "Fulda Legendary"
+  }, {
+    "label" : "Material",
+    "value" : "Parchment"
+  }, {
+    "label" : "Place of Origin (English)",
+    "value" : "Fulda"
+  }, {
+    "label" : "Date of Origin (English)",
+    "value" : "ca. 1156"
+  }, {
+    "label" : "Number of Pages",
+    "value" : "1"
+  }, {
+    "label" : "Dimensions",
+    "value" : "41 x 29 + 1.5 cm"
+  }, {
+    "label" : "Online Since",
+    "value" : "2019-06-13"
+  }, {
+    "label" : "Summary (English)",
+    "value" : "Leaf from the third volume (May-June) of a Fulda Legendary that originally consisted of six volumes, commissioned in 1156 by Rugger, monk at Frauenberg Abbey in Fulda (1176-1177 abbot of Fulda as <a href=\"https://www.lagis-hessen.de/pnd/1112091297\">Rugger II</a>). This fragment contains parts of the <i>Vita s. Martialis</i> as well as of the <i>Passio sanctorum Primi et Feliciani</i> and probably was written by <a href=\"http://www.lagis-hessen.de/pnd/104048336\">Eberhard of Fulda</a>. The legendary was still used in the middle of the 16th century in Fulda by <a href=\"http://www.lagis-hessen.de/pnd/118807757\">Georg Witzel </a>(1501-1573) for his <a href=\"http://gateway-bayern.de/VD16+W+3930\">Hagiologium seu de sanctis ecclesiae</a> (Mainz 1541) as well as for his <a href=\"http://gateway-bayern.de/VD16+W+3890\">Chorus sanctorum omnium. Zwelff Bücher Historien Aller Heiligen Gottes</a> (Köln 1554). Other fragments from this third volume are in Basel, Solothurn and Nuremberg. It shows that this volume, and at least the 6th volume (November-December) of the legendary as well, reached Basel, where both evidently were used as manuscript waste around 1580."
+  }, {
+    "label" : "Digitized by",
+    "value" : "Universitätsbibliothek Basel"
+  }, {
+    "label" : "Century",
+    "value" : "12th century"
+  }, {
+    "label" : "Liturgica christiana",
+    "value" : "Passionary/Legendary"
+  }, {
+    "label" : "Text Language",
+    "value" : "Latin"
+  } ],
+  "description" : [ {
+    "@value" : "Leaf from the third volume (May-June) of a Fulda Legendary that originally consisted of six volumes, commissioned in 1156 by Rugger, monk at Frauenberg Abbey in Fulda (1176-1177 abbot of Fulda as Rugger II). This fragment contains parts of the Vita s. Martialis as well as of the Passio sanctorum Primi et Feliciani and probably was written by Eberhard of Fulda. The legendary was still used in the middle of the 16th century in Fulda by Georg Witzel (1501-1573) for his Hagiologium seu de sanctis ecclesiae (Mainz 1541) as well as for his Chorus sanctorum omnium. Zwelff Bücher Historien Aller Heiligen Gottes (Köln 1554). Other fragments from this third volume are in Basel, Solothurn and Nuremberg. It shows that this volume, and at least the 6th volume (November-December) of the legendary as well, reached Basel, where both evidently were used as manuscript waste around 1580.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "attribution" : "e-codices - Virtual Manuscript Library of Switzerland",
+  "logo" : "https://www.e-codices.ch/img/logo-for-iiif-manifest.png",
+  "service" : [ {
+    "@context" : "https://www.w3.org/ns/webmention",
+    "@id" : "https://e-codices.ch/webmention/receive",
+    "profile" : "https://www.w3.org/ns/webmention",
+    "label" : "e-codices Webmention Service"
+  } ],
+  "related" : "https://www.e-codices.ch/en/list/one/stabs/StAlban-DD1-1580",
+  "within" : "https://www.e-codices.ch/en/list/stabs",
+  "seeAlso" : [ {
+    "@id" : "https://e-codices.ch/xml/tei_published/stabs-StAlban-DD1-1580_Staub.xml",
+    "@format" : "application/tei+xml"
+  } ],
+  "sequences" : [ {
+    "@id" : "https://e-codices.ch/metadata/iiif/stabs-StAlban-DD1-1580/sequence/Sequence-3108.json",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Standardabfolge",
+      "@language" : "de"
+    }, {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    }, {
+      "@value" : "Séquence normale",
+      "@language" : "fr"
+    }, {
+      "@value" : "Sequenza normale",
+      "@language" : "it"
+    } ],
+    "canvases" : [ {
+      "@id" : "https://e-codices.ch/metadata/iiif/stabs-StAlban-DD1-1580/canvas/stabs-StAlban-DD1-1580_r.json",
+      "@type" : "sc:Canvas",
+      "label" : "1r",
+      "height" : 9422,
+      "width" : 7760,
+      "images" : [ {
+        "@id" : "https://e-codices.ch/metadata/iiif/stabs-StAlban-DD1-1580/annotation/stabs-StAlban-DD1-1580_r.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://e-codices.ch/metadata/iiif/stabs-StAlban-DD1-1580/canvas/stabs-StAlban-DD1-1580_r.json",
+        "resource" : {
+          "@id" : "https://e-codices.ch/loris/stabs/stabs-StAlban-DD1-1580/stabs-StAlban-DD1-1580_r.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 9422,
+          "width" : 7760,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://e-codices.ch/loris/stabs/stabs-StAlban-DD1-1580/stabs-StAlban-DD1-1580_r.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://e-codices.ch/metadata/iiif/stabs-StAlban-DD1-1580/canvas/stabs-StAlban-DD1-1580_v.json",
+      "@type" : "sc:Canvas",
+      "label" : "1v",
+      "height" : 9513,
+      "width" : 7760,
+      "images" : [ {
+        "@id" : "https://e-codices.ch/metadata/iiif/stabs-StAlban-DD1-1580/annotation/stabs-StAlban-DD1-1580_v.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://e-codices.ch/metadata/iiif/stabs-StAlban-DD1-1580/canvas/stabs-StAlban-DD1-1580_v.json",
+        "resource" : {
+          "@id" : "https://e-codices.ch/loris/stabs/stabs-StAlban-DD1-1580/stabs-StAlban-DD1-1580_v.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 9513,
+          "width" : 7760,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://e-codices.ch/loris/stabs/stabs-StAlban-DD1-1580/stabs-StAlban-DD1-1580_v.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    } ]
+  } ],
+  "structures" : [ ]
+}
